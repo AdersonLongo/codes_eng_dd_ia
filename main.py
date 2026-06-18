@@ -1,7 +1,9 @@
 from fatos import buscar_fato_aleatorio
 from sistema import obter_info_sistema
 
-print ("Olá")
+print("Hello")
+
+
 def main():
     fato = buscar_fato_aleatorio()
     info = obter_info_sistema()
